@@ -12,15 +12,15 @@ I see my development in the future in studying and deepening my knowledge and sk
 I am confident that my desire to learn new technologies and keep up with industry developments will be useful in my future job.
 ____
 # **Technologies**
-C#(.Net Framework, .Net Core)
-Asp.NET
-SQL(MySQL, MSSQL)
-Unity
-Linq
-Git(GitHub, GitLab)
-HTML5, CSS
-Open API(Swagger)
-HTTP
+* C#(.Net Framework, .Net Core)
+* Asp.NET
+* SQL(MySQL, MSSQL)
+* Unity
+* Linq
+* Git(GitHub, GitLab)
+* HTML5, CSS
+* Open API(Swagger)
+* HTTP
 ____
 # **Code**
 ```
@@ -86,13 +86,13 @@ Link: https://github.com/kolyasav00/PetProject
 *Intern on the security testing courses. Gained extensive knowledge of Linux fundamentals. Writing a high-quality Bug reports, JQL requests, maintain bug's life cycle via Jira. Testing database ( SQL injection), application quality and functionality, recourse access, api security. Analyzing code and identifying weak points.Manual testing mobile, desktop application and web-application. Working with network*
 ____
 # **Course and educations**
-2023-2024 English school "Underground"
-2024 Code-Basics - Course HTML5, CSS, JS Basic
-2023 Code-Basics - Course C# Basic
+* 2023-2024 English school "Underground"
+* 2024 Code-Basics - Course HTML5, CSS, JS Basic
+* 2023 Code-Basics - Course C# Basic
 ____
 # **Languages**
-English - Intermediate(In progress)
-Russian - Native
-Belarussian -Native
-German - Beginner 
+* English - Intermediate(In progress)
+* Russian - Native
+* Belarussian -Native
+* German - Beginner 
 
